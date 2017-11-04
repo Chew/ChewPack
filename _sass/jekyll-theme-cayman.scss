@@ -1,19 +1,16 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;
   }
 }
-
 @mixin medium {
   @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
     @content;
   }
 }
-
 @mixin small {
   @media screen and (max-width: #{$medium-breakpoint}) {
     @content;
@@ -63,16 +60,13 @@ a {
   + .btn {
     margin-left: 1rem;
   }
-
   @include large {
     padding: 0.75rem 1rem;
   }
-
   @include medium {
     padding: 0.6rem 0.9rem;
     font-size: 0.9rem;
   }
-
   @include small {
     display: block;
     width: 100%;
@@ -91,15 +85,12 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-
   @include large {
     padding: 5rem 6rem;
   }
-
   @include medium {
     padding: 3rem 4rem;
   }
-
   @include small {
     padding: 2rem 1rem;
   }
@@ -108,15 +99,12 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
-
   @include large {
     font-size: 3.25rem;
   }
-
   @include medium {
     font-size: 2.25rem;
   }
-
   @include small {
     font-size: 1.75rem;
   }
@@ -126,15 +114,12 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7;
-
   @include large {
     font-size: 1.25rem;
   }
-
   @include medium {
     font-size: 1.15rem;
   }
-
   @include small {
     font-size: 1rem;
   }
@@ -146,19 +131,16 @@ a {
   :first-child {
     margin-top: 0;
   }
-
   @include large {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }
-
   @include medium {
     padding: 2rem 4rem;
     font-size: 1.1rem;
   }
-
   @include small {
     padding: 2rem 1rem;
     font-size: 1rem;
@@ -247,14 +229,14 @@ a {
     background-color: transparent;
     border: 0;
 
-    &:before,
-    &:after {
+    &:after,
+    &:before {
       content: normal;
     }
   }
 
-  ul,
-  ol {
+  ol,
+  ul {
     margin-top: 0;
   }
 
@@ -285,8 +267,8 @@ a {
       font-weight: bold;
     }
 
-    th,
-    td {
+    td,
+    th {
       padding: 0.5rem 1rem;
       border: 1px solid $table-border-color;
     }
@@ -321,15 +303,12 @@ a {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
-
   @include large {
     font-size: 1rem;
   }
-
   @include medium {
     font-size: 1rem;
   }
-
   @include small {
     font-size: 0.9rem;
   }
