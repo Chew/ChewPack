@@ -4,16 +4,16 @@ Name                  | Version              | Url
 --------------------- | -------------------- | ----------------------------------------------
 Aether                | 1.6                  | <http://aether.gildedgames.com>
 Applied Energistics 2 | rv2 stable 10        | <http://ae-mod.info/>
-Avaritia              | 1.11                 |
+Avaritia              | 1.11                 | <https://minecraft.curseforge.com/projects/avaritia>
 Biomes O' Plenty      | 2.1.0                | <http://www.minecraftforum.net/topic/1495041->
-Botania               | r1.8-249             |
-BrandonsCore          | 1.0.0.12             |
+Botania               | r1.8-249             | <https://minecraft.curseforge.com/projects/botania>
+BrandonsCore          | 1.0.0.12             | <https://minecraft.curseforge.com/projects/brandons-core>
 CodeChickenCore       | 1.7.10-1.0.7.47      | <http://www.minecraftforum.net/topic/909223->
 CoFH Core             | 3.1.3                | <http://teamcofh.com/>
-Compact Machines      | 1.7.10-1.21          |
+Compact Machines      | 1.7.10-1.21          | <https://minecraft.curseforge.com/projects/compact-machines>
 ComputerCraft         | 1.75                 | <http://www.computercraft.info/>
 Draconic Evolution    | 1.7.10-1.0.2h        | <http://www.brandon3055.com/>
-EiraIRC               | 2.9.402              |
+EiraIRC               | 2.9.402              | <https://minecraft.curseforge.com/projects/eirairc>
 Ender IO              | 1.7.10-2.2.8.381     | <http://www.minecraftforum.net/topic/1937619->
 ExtraUtilities        | 1.2.12               | <http://www.minecraftforum.net/topic/1776056->
 ExtraTiC              | 1.4.6                | <http://www.minecraftforum.net/topic/1985397->
@@ -22,8 +22,8 @@ Galacticraft Planets  | 3.0.12               |
 Guilded Games Utility | 1.7.10-1.1           | <http://ae-mod.info/>
 Hats                  | 4.0.1                | <http://ichun.us/mods/hats/>
 iChunUtil             | 4.2.3                | <http://www.ichun.us/>
-Iguana Tinker Tweaks  | 2.1.6                |
-Inventory Tweaks      | 1.59-dev-152-cf6e263 |
+Iguana Tinker Tweaks  | 2.1.6                | <https://www.curseforge.com/minecraft/mc-mods/iguanas-tinker-tweaks>
+Inventory Tweaks      | 1.59-dev-152-cf6e263 | <https://minecraft.curseforge.com/projects/inventory-tweaks>
 JourneyMap            | 1.7.10-5.1.4p1       | <http://www.minecraftforum.net/topic/772071->
 Magical Crops: Core   | 4.0.0_PUBLIC_BETA_4b |
 Mantle                | 0.3.2b               |
